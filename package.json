@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/iusto-amet-ad-dolorum",
-  "version": "3.11.81",
+  "version": "3.11.82",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -263,5 +263,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/iusto-amet-ad-dolorum/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
